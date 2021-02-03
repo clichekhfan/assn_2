@@ -1,0 +1,10 @@
+2021-01-30 20:48:27.423 | DEBUG    | __main__:<module>:238 - __name__:__main__
+2021-01-30 20:48:27.423 | DEBUG    | __main__:<module>:238 - __name__:__main__
+2021-01-30 20:48:27.423 | DEBUG    | users:__init__:32 - UserCollection()
+2021-01-30 20:48:27.423 | DEBUG    | users:__init__:32 - UserCollection()
+2021-01-30 20:48:27.424 | DEBUG    | main:init_user_collection:18 - collection = users.UserCollection()
+2021-01-30 20:48:27.424 | DEBUG    | main:init_user_collection:18 - collection = users.UserCollection()
+2021-01-30 20:48:27.424 | DEBUG    | user_status:__init__:25 - UserStatusCollection()
+2021-01-30 20:48:27.424 | DEBUG    | user_status:__init__:25 - UserStatusCollection()
+2021-01-30 20:48:27.424 | DEBUG    | main:init_status_collection:29 - stati = user_status.UserStatusCollection()
+2021-01-30 20:48:27.424 | DEBUG    | main:init_status_collection:29 - stati = user_status.UserStatusCollection()
